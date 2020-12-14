@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053755488293",
+    "project_id": "authwithfirebase-2b489",
+    "storage_bucket": "authwithfirebase-2b489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053755488293:android:5cac54ad461f3b930ae7cc",
+        "android_client_info": {
+          "package_name": "com.vumehta.authwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053755488293-3notbdh8bd7tq1kfui8iq93509vbj5ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLUpsx40VkxZy3q87BrcZ-hNgAJdTk2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053755488293-3notbdh8bd7tq1kfui8iq93509vbj5ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
